@@ -5,5 +5,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Tres Popp
-description: A website for keeping my recipes
+description: A jack of all trades: sports, cooking, programming, travelling
 google_analytics: UA-52347323-1
