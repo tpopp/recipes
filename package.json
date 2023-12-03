@@ -25,7 +25,6 @@
       "react-app/jest"
     ]
   },
-  "homepage": "http://tpopp.github.io/recipes",
   "browserslist": {
     "production": [
       ">0.2%",
